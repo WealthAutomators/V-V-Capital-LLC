@@ -2,10 +2,9 @@ import { NavLink } from "@/types";
 import { categories } from "./categories";
 
 export const navigationLinks: NavLink[] = [
-  { label: "Home", href: "/" },
   { label: "Shop", href: "/shop" },
   {
-    label: "Categories",
+    label: "Collections",
     href: "/categories",
     children: categories.map((c) => ({
       label: c.name,
@@ -13,12 +12,24 @@ export const navigationLinks: NavLink[] = [
     })),
   },
   { label: "New Arrivals", href: "/new-arrivals" },
-  { label: "Best Sellers", href: "/best-sellers" },
-  { label: "About", href: "/about" },
-  { label: "Contact", href: "/contact" },
+  { label: "Home", href: "/categories/home" },
+  { label: "Everyday", href: "/categories/everyday" },
+  { label: "Travel", href: "/categories/travel" },
+  { label: "Personal", href: "/categories/personal" },
+  { label: "Gifts", href: "/categories/gifts" },
 ];
 
 export const footerLinks = {
+  shop: [
+    { label: "Shop All", href: "/shop" },
+    { label: "New Arrivals", href: "/new-arrivals" },
+    { label: "Best Sellers", href: "/best-sellers" },
+    { label: "The Edit", href: "/shop?sale=true" },
+  ],
+  collections: categories.map((c) => ({
+    label: c.name,
+    href: `/categories/${c.slug}`,
+  })),
   company: [
     { label: "About Us", href: "/about" },
     { label: "Contact Us", href: "/contact" },
@@ -26,6 +37,7 @@ export const footerLinks = {
     { label: "FAQs", href: "/faq" },
   ],
   customerCare: [
+    { label: "Account", href: "/profile" },
     { label: "Track Order", href: "/track-order" },
     { label: "Returns", href: "/returns" },
     { label: "Shipping Policy", href: "/shipping" },

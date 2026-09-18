@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
 function readStoredValue<T>(key: string, initialValue: T): T {
   if (typeof window === "undefined") return initialValue;
@@ -14,8 +14,15 @@ function readStoredValue<T>(key: string, initialValue: T): T {
 }
 
 export function useLocalStorage<T>(key: string, initialValue: T) {
-  const [storedValue, setStoredValue] = useState<T>(() => readStoredValue(key, initialValue));
-  const isHydrated = true;
+  const [storedValue, setStoredValue] = useState<T>(initialValue);
+  const [isHydrated, setIsHydrated] = useState(false);
+
+  useEffect(() => {
+    setStoredValue(readStoredValue(key, initialValue));
+    setIsHydrated(true);
+    // initialValue is a default only; key is the identity of the store
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [key]);
 
   const setValue = useCallback(
     (value: T | ((val: T) => T)) => {

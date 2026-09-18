@@ -20,7 +20,7 @@ export function QuantitySelector({
   className,
 }: QuantitySelectorProps) {
   return (
-    <div className={cn("inline-flex items-center rounded-md border border-border", className)}>
+    <div className={cn("inline-flex items-center border border-border", className)}>
       <Button
         variant="ghost"
         size="icon"

@@ -16,7 +16,7 @@ export function ProductGallery({ images, name }: ProductGalleryProps) {
   return (
     <div className="flex flex-col gap-4">
       <div
-        className="relative aspect-square overflow-hidden rounded-lg border border-border bg-muted"
+        className="relative aspect-square overflow-hidden rounded-[2px] border border-border bg-stone"
         onMouseEnter={() => setIsZoomed(true)}
         onMouseLeave={() => setIsZoomed(false)}
       >

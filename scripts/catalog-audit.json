@@ -1,0 +1,1646 @@
+{
+  "total": 77,
+  "reused": 9,
+  "reusePercent": 12,
+  "uniqueAssets": 96,
+  "products": [
+    {
+      "slug": "arden-copper-kettle",
+      "name": "Arden Copper Kettle",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_139",
+      "assetName": "Tea Kettle",
+      "assetType": "Kettle",
+      "assetPath": "images/kitchen-dining/tea-kettle-001.jpg",
+      "images": [
+        "/products/arden-copper-kettle-1.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "millhouse-hand-mill",
+      "name": "Millhouse Hand Coffee Mill",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_127",
+      "assetName": "Coffee Grinder",
+      "assetType": "Coffee Grinder",
+      "assetPath": "images/kitchen-dining/coffee-grinder-001.jpg",
+      "images": [
+        "/products/millhouse-hand-mill-1.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "linden-pour-over-set",
+      "name": "Linden Pour-Over Set",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_086",
+      "assetName": "Pour Over Coffee Set",
+      "assetType": "Coffee Dripper",
+      "assetPath": "images/gifts-lifestyle/pour-over-coffee-set-001.jpg",
+      "images": [
+        "/products/linden-pour-over-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "hearth-cast-iron-skillet",
+      "name": "Hearth Cast Iron Skillet",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_124",
+      "assetName": "Cast Iron Skillet",
+      "assetType": "Skillet",
+      "assetPath": "images/kitchen-dining/cast-iron-skillet-001.jpg",
+      "images": [
+        "/products/hearth-cast-iron-skillet-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "walnut-serving-board",
+      "name": "Walnut Serving Board",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_143",
+      "assetName": "Wooden Serving Board",
+      "assetType": "Cutting Board",
+      "assetPath": "images/kitchen-dining/wooden-cutting-board-002.jpg",
+      "images": [
+        "/products/walnut-serving-board-1.jpg",
+        "/products/walnut-serving-board-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "sutton-celadon-plates",
+      "name": "Sutton Celadon Plates, Set of 4",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_137",
+      "assetName": "Stoneware Dinner Plate",
+      "assetType": "Dinner Plate",
+      "assetPath": "images/kitchen-dining/stoneware-dinner-plate-001.jpg",
+      "images": [
+        "/products/sutton-celadon-plates-1.jpg",
+        "/products/sutton-celadon-plates-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "elm-white-mugs",
+      "name": "Elm White Mugs, Set of 2",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_125",
+      "assetName": "Ceramic Mug",
+      "assetType": "Mug",
+      "assetPath": "images/kitchen-dining/ceramic-mug-001.jpg",
+      "images": [
+        "/products/elm-white-mugs-1.jpg",
+        "/products/elm-white-mugs-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "claremont-wine-glasses",
+      "name": "Claremont Wine Glasses, Set of 4",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_141",
+      "assetName": "Wine Glass",
+      "assetType": "Wine Glass",
+      "assetPath": "images/kitchen-dining/wine-glass-001.jpg",
+      "images": [
+        "/products/claremont-wine-glasses-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "grove-serving-bowl",
+      "name": "Grove Serving Bowl",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_135",
+      "assetName": "Serving Bowl",
+      "assetType": "Serving Bowl",
+      "assetPath": "images/kitchen-dining/serving-bowl-001.jpg",
+      "images": [
+        "/products/grove-serving-bowl-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "ashford-serving-tray",
+      "name": "Ashford Serving Tray",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_104",
+      "assetName": "Decorative Tray",
+      "assetType": "Serving Tray",
+      "assetPath": "images/home-living/decorative-serving-tray-001.jpg",
+      "images": [
+        "/products/ashford-serving-tray-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "meridian-flatware-set",
+      "name": "Meridian Flatware Set",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_128",
+      "assetName": "Cutlery Set",
+      "assetType": "Flatware",
+      "assetPath": "images/kitchen-dining/cutlery-set-001.jpg",
+      "images": [
+        "/products/meridian-flatware-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "brookline-teapot",
+      "name": "Brookline Teapot",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_140",
+      "assetName": "Teapot",
+      "assetType": "Teapot",
+      "assetPath": "images/kitchen-dining/teapot-001.jpg",
+      "images": [
+        "/products/brookline-teapot-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "essex-espresso-cups",
+      "name": "Essex Espresso Cups, Set of 2",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_129",
+      "assetName": "Espresso Cup",
+      "assetType": "Espresso Cup",
+      "assetPath": "images/kitchen-dining/espresso-cup-001.jpg",
+      "images": [
+        "/products/essex-espresso-cups-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "field-kitchen-scale",
+      "name": "Field Kitchen Scale",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_133",
+      "assetName": "Kitchen Scale",
+      "assetType": "Kitchen Scale",
+      "assetPath": "images/kitchen-dining/kitchen-scale-001.jpg",
+      "images": [
+        "/products/field-kitchen-scale-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "pane-spice-vials",
+      "name": "Pane Spice Vials, Set of 4",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_136",
+      "assetName": "Spice Jar Set",
+      "assetType": "Spice Storage",
+      "assetPath": "images/kitchen-dining/spice-jar-set-001.jpg",
+      "images": [
+        "/products/pane-spice-vials-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "hearthside-shaker-set",
+      "name": "Hearthside Salt & Pepper Set",
+      "category": "Kitchen & Dining",
+      "assetId": "asset_134",
+      "assetName": "Salt & Pepper Shakers",
+      "assetType": "Shaker Set",
+      "assetPath": "images/kitchen-dining/salt-pepper-shakers-001.jpg",
+      "images": [
+        "/products/hearthside-shaker-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "rowen-knit-throw",
+      "name": "Rowen Knit Throw",
+      "category": "Home",
+      "assetId": "asset_109",
+      "assetName": "Knit Throw Blanket",
+      "assetType": "Throw Blanket",
+      "assetPath": "images/home-living/knit-throw-blanket-001.jpg",
+      "images": [
+        "/products/rowen-knit-throw-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "ellis-cotton-cushion",
+      "name": "Ellis Cotton Cushion",
+      "category": "Home",
+      "assetId": "asset_112",
+      "assetName": "Linen Cushion Cover",
+      "assetType": "Cushion",
+      "assetPath": "images/home-living/linen-cushion-cover-001.jpg",
+      "images": [
+        "/products/ellis-cotton-cushion-1.jpg",
+        "/products/ellis-cotton-cushion-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "sable-ceramic-vase",
+      "name": "Sable Celadon Vase",
+      "category": "Home",
+      "assetId": "asset_100",
+      "assetName": "Ceramic Vase",
+      "assetType": "Vase",
+      "assetPath": "images/home-living/ceramic-vase-001.jpg",
+      "images": [
+        "/products/sable-ceramic-vase-1.jpg",
+        "/products/sable-ceramic-vase-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "pippin-bud-vases",
+      "name": "Pippin Glass Bud Vases, Set of 4",
+      "category": "Home",
+      "assetId": "asset_107",
+      "assetName": "Glass Bud Vase",
+      "assetType": "Bud Vase",
+      "assetPath": "images/home-living/glass-bud-vase-001.jpg",
+      "images": [
+        "/products/pippin-bud-vases-1.jpg",
+        "/products/pippin-bud-vases-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "halden-floor-lamp",
+      "name": "Halden Tripod Floor Lamp",
+      "category": "Home",
+      "assetId": "asset_094",
+      "assetName": "Standing Floor Lamp",
+      "assetType": "Floor Lamp",
+      "assetPath": "images/home-living/arc-floor-lamp-001.jpg",
+      "images": [
+        "/products/halden-floor-lamp-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "glen-wall-mirror",
+      "name": "Glen Wall Mirror",
+      "category": "Home",
+      "assetId": "asset_116",
+      "assetName": "Round Wall Mirror",
+      "assetType": "Wall Mirror",
+      "assetPath": "images/home-living/round-wall-mirror-001.jpg",
+      "images": [
+        "/products/glen-wall-mirror-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "weston-wall-clock",
+      "name": "Weston Wall Clock",
+      "category": "Home",
+      "assetId": "asset_114",
+      "assetName": "Minimal Wall Clock",
+      "assetType": "Wall Clock",
+      "assetPath": "images/home-living/minimal-wall-clock-001.jpg",
+      "images": [
+        "/products/weston-wall-clock-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "atelier-study-print",
+      "name": "Atelier Study Print",
+      "category": "Home",
+      "assetId": "asset_118",
+      "assetName": "Art Print",
+      "assetType": "Art Print",
+      "assetPath": "images/home-living/art-print-001.jpg",
+      "images": [
+        "/products/atelier-study-print-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "terra-plant-pot",
+      "name": "Terra Stoneware Planter",
+      "category": "Home",
+      "assetId": "asset_096",
+      "assetName": "Ceramic Plant Pot",
+      "assetType": "Plant Pot",
+      "assetPath": "images/home-living/ceramic-plant-pot-001.jpg",
+      "images": [
+        "/products/terra-plant-pot-1.jpg",
+        "/products/terra-plant-pot-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "wicker-storage-basket",
+      "name": "Seagrass Floor Basket",
+      "category": "Home",
+      "assetId": "asset_110",
+      "assetName": "Laundry Hamper",
+      "assetType": "Laundry Basket",
+      "assetPath": "images/home-living/laundry-hamper-001.jpg",
+      "images": [
+        "/products/wicker-storage-basket-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "archive-storage-box",
+      "name": "Archive Lidded Storage Box",
+      "category": "Home",
+      "assetId": "asset_117",
+      "assetName": "Storage Box",
+      "assetType": "Storage Box",
+      "assetPath": "images/home-living/storage-box-001.jpg",
+      "images": [
+        "/products/archive-storage-box-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "linley-wall-shelf",
+      "name": "Linley Wall Shelf",
+      "category": "Home",
+      "assetId": "asset_106",
+      "assetName": "Floating Wall Shelf",
+      "assetType": "Wall Shelf",
+      "assetPath": "images/home-living/floating-wall-shelf-001.jpg",
+      "images": [
+        "/products/linley-wall-shelf-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "cinder-decorative-bowl",
+      "name": "Cinder Decorative Bowl",
+      "category": "Home",
+      "assetId": "asset_103",
+      "assetName": "Decorative Bowl",
+      "assetType": "Decorative Bowl",
+      "assetPath": "images/home-living/decorative-bowl-001.jpg",
+      "images": [
+        "/products/cinder-decorative-bowl-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "haven-bath-towels",
+      "name": "Haven Hotel Towel Set",
+      "category": "Home",
+      "assetId": "asset_078",
+      "assetName": "Bath Towel Set",
+      "assetType": "Bath Towel",
+      "assetPath": "images/gifts-lifestyle/bath-towel-set-001.jpg",
+      "images": [
+        "/products/haven-bath-towels-1.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "entry-doormat",
+      "name": "Entry Coir Doormat",
+      "category": "Home",
+      "assetId": "asset_105",
+      "assetName": "Doormat",
+      "assetType": "Doormat",
+      "assetPath": "images/home-living/doormat-001.jpg",
+      "images": [
+        "/products/entry-doormat-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "oak-wall-hooks",
+      "name": "Oak Wall Hooks, Set of 3",
+      "category": "Home",
+      "assetId": "asset_102",
+      "assetName": "Coat Hooks",
+      "assetType": "Wall Hooks",
+      "assetPath": "images/home-living/coat-hooks-001.jpg",
+      "images": [
+        "/products/oak-wall-hooks-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "ledger-linen-notebook",
+      "name": "Ledger Linen Notebook",
+      "category": "Workspace",
+      "assetId": "asset_146",
+      "assetName": "Hardcover Notebook",
+      "assetType": "Notebook",
+      "assetPath": "images/office-desk/hardcover-notebook-001.jpg",
+      "images": [
+        "/products/ledger-linen-notebook-1.jpg",
+        "/products/ledger-linen-notebook-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "yearling-desk-planner",
+      "name": "Yearling Desk Planner",
+      "category": "Workspace",
+      "assetId": "asset_154",
+      "assetName": "Weekly Planner",
+      "assetType": "Planner",
+      "assetPath": "images/office-desk/weekly-planner-001.jpg",
+      "images": [
+        "/products/yearling-desk-planner-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "nile-fountain-pen",
+      "name": "Nile Fountain Pen",
+      "category": "Workspace",
+      "assetId": "asset_145",
+      "assetName": "Fountain Pen",
+      "assetType": "Pen",
+      "assetPath": "images/office-desk/fountain-pen-001.jpg",
+      "images": [
+        "/products/nile-fountain-pen-1.jpg",
+        "/products/nile-fountain-pen-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "rise-laptop-stand",
+      "name": "Rise Aluminum Laptop Stand",
+      "category": "Workspace",
+      "assetId": "asset_148",
+      "assetName": "Laptop Stand",
+      "assetType": "Laptop Stand",
+      "assetPath": "images/office-desk/laptop-stand-001.jpg",
+      "images": [
+        "/products/rise-laptop-stand-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "field-desk-lamp",
+      "name": "Field Gooseneck Desk Lamp",
+      "category": "Workspace",
+      "assetId": "asset_045",
+      "assetName": "LED Desk Light",
+      "assetType": "Desk Light",
+      "assetPath": "images/electronics/clip-desk-light-001.jpg",
+      "images": [
+        "/products/field-desk-lamp-1.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "harbor-alarm-clock",
+      "name": "Harbor Analog Alarm Clock",
+      "category": "Workspace",
+      "assetId": "asset_048",
+      "assetName": "Bedside Alarm Clock",
+      "assetType": "Alarm Clock",
+      "assetPath": "images/electronics/bedside-alarm-clock-001.jpg",
+      "images": [
+        "/products/harbor-alarm-clock-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "weekender-canvas-bag",
+      "name": "Weekender Canvas Holdall",
+      "category": "Travel",
+      "assetId": "asset_183",
+      "assetName": "Weekender Duffel Bag",
+      "assetType": "Weekender Bag",
+      "assetPath": "images/travel-bags/weekender-duffel-bag-001.jpg",
+      "images": [
+        "/products/weekender-canvas-bag-1.jpg",
+        "/products/weekender-canvas-bag-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "dayline-backpack",
+      "name": "Field Canvas Daypack",
+      "category": "Travel",
+      "assetId": "asset_189",
+      "assetName": "Canvas Daypack",
+      "assetType": "Daypack",
+      "assetPath": "images/travel-bags/canvas-daypack-001.jpg",
+      "images": [
+        "/products/dayline-backpack-1.jpg",
+        "/products/dayline-backpack-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "cross-town-bag",
+      "name": "Cross-Town Crossbody",
+      "category": "Travel",
+      "assetId": "asset_186",
+      "assetName": "Crossbody Bag",
+      "assetType": "Crossbody Bag",
+      "assetPath": "images/travel-bags/crossbody-bag-002.jpg",
+      "images": [
+        "/products/cross-town-bag-1.jpg",
+        "/products/cross-town-bag-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "courier-messenger",
+      "name": "Courier Messenger Bag",
+      "category": "Travel",
+      "assetId": "asset_192",
+      "assetName": "Messenger Bag",
+      "assetType": "Messenger Bag",
+      "assetPath": "images/travel-bags/messenger-bag-001.jpg",
+      "images": [
+        "/products/courier-messenger-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "voyage-luggage-tag",
+      "name": "Voyage Leather Luggage Tag",
+      "category": "Travel",
+      "assetId": "asset_191",
+      "assetName": "Luggage Tag",
+      "assetType": "Luggage Tag",
+      "assetPath": "images/travel-bags/luggage-tag-001.jpg",
+      "images": [
+        "/products/voyage-luggage-tag-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "commute-travel-tumbler",
+      "name": "Commute Travel Tumbler",
+      "category": "Travel",
+      "assetId": "asset_132",
+      "assetName": "Insulated Travel Tumbler",
+      "assetType": "Travel Tumbler",
+      "assetPath": "images/kitchen-dining/insulated-travel-tumbler-001.jpg",
+      "images": [
+        "/products/commute-travel-tumbler-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "canopy-umbrella",
+      "name": "Canopy Compact Umbrella",
+      "category": "Travel",
+      "assetId": "asset_018",
+      "assetName": "Umbrella",
+      "assetType": "Umbrella",
+      "assetPath": "images/accessories/umbrella-001.jpg",
+      "images": [
+        "/products/canopy-umbrella-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "merino-crew-sweater",
+      "name": "Heather Knit Crew",
+      "category": "Apparel",
+      "assetId": "asset_036",
+      "assetName": "Knit Sweater",
+      "assetType": "Sweater",
+      "assetPath": "images/apparel/knit-sweater-001.jpg",
+      "images": [
+        "/products/merino-crew-sweater-1.jpg",
+        "/products/merino-crew-sweater-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "overland-overshirt",
+      "name": "Overland Cotton Overshirt",
+      "category": "Apparel",
+      "assetId": "asset_024",
+      "assetName": "Casual Overshirt",
+      "assetType": "Overshirt",
+      "assetPath": "images/apparel/casual-overshirt-001.jpg",
+      "images": [
+        "/products/overland-overshirt-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "poplin-dress-shirt",
+      "name": "Poplin Dress Shirt",
+      "category": "Apparel",
+      "assetId": "asset_031",
+      "assetName": "Dress Shirt",
+      "assetType": "Dress Shirt",
+      "assetPath": "images/apparel/dress-shirt-001.jpg",
+      "images": [
+        "/products/poplin-dress-shirt-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "twill-everyday-trousers",
+      "name": "Twill Everyday Trousers",
+      "category": "Apparel",
+      "assetId": "asset_026",
+      "assetName": "Cotton Trousers",
+      "assetType": "Trousers",
+      "assetPath": "images/apparel/cotton-trousers-001.jpg",
+      "images": [
+        "/products/twill-everyday-trousers-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "field-wool-scarf",
+      "name": "Field Wool Scarf",
+      "category": "Apparel",
+      "assetId": "asset_019",
+      "assetName": "Wool Scarf",
+      "assetType": "Scarf",
+      "assetPath": "images/accessories/wool-scarf-001.jpg",
+      "images": [
+        "/products/field-wool-scarf-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "bridle-leather-belt",
+      "name": "Bridle Leather Belt",
+      "category": "Apparel",
+      "assetId": "asset_009",
+      "assetName": "Leather Belt",
+      "assetType": "Belt",
+      "assetPath": "images/accessories/leather-belt-001.jpg",
+      "images": [
+        "/products/bridle-leather-belt-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "cashmere-lined-gloves",
+      "name": "Cashmere-Lined Leather Gloves",
+      "category": "Apparel",
+      "assetId": "asset_006",
+      "assetName": "Leather Gloves",
+      "assetType": "Gloves",
+      "assetPath": "images/accessories/gloves-001.jpg",
+      "images": [
+        "/products/cashmere-lined-gloves-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "folio-leather-wallet",
+      "name": "Folio Slim Leather Wallet",
+      "category": "Personal",
+      "assetId": "asset_010",
+      "assetName": "Leather Wallet",
+      "assetType": "Wallet",
+      "assetPath": "images/accessories/leather-wallet-001.jpg",
+      "images": [
+        "/products/folio-leather-wallet-1.jpg",
+        "/products/folio-leather-wallet-2.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "horizon-sunglasses",
+      "name": "Horizon Polarized Sunglasses",
+      "category": "Personal",
+      "assetId": "asset_017",
+      "assetName": "Sunglasses",
+      "assetType": "Sunglasses",
+      "assetPath": "images/accessories/sunglasses-002.jpg",
+      "images": [
+        "/products/horizon-sunglasses-1.jpg",
+        "/products/horizon-sunglasses-2.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "meridian-field-watch",
+      "name": "Meridian Canvas Watch",
+      "category": "Personal",
+      "assetId": "asset_020",
+      "assetName": "Wristwatch",
+      "assetType": "Watch",
+      "assetPath": "images/accessories/wristwatch-001.jpg",
+      "images": [
+        "/products/meridian-field-watch-1.jpg",
+        "/products/meridian-field-watch-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "link-bracelet",
+      "name": "Link Cuff Bracelet",
+      "category": "Personal",
+      "assetId": "asset_001",
+      "assetName": "Bracelet",
+      "assetType": "Bracelet",
+      "assetPath": "images/accessories/bracelet-001.jpg",
+      "images": [
+        "/products/link-bracelet-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "grooming-travel-set",
+      "name": "Grooming Travel Set",
+      "category": "Personal",
+      "assetId": "asset_082",
+      "assetName": "Grooming Kit",
+      "assetType": "Grooming Set",
+      "assetPath": "images/gifts-lifestyle/grooming-kit-001.jpg",
+      "images": [
+        "/products/grooming-travel-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "safety-razor",
+      "name": "Safety Razor",
+      "category": "Personal",
+      "assetId": "asset_087",
+      "assetName": "Razor & Blade Set",
+      "assetType": "Razor",
+      "assetPath": "images/gifts-lifestyle/razor-blade-set-001.jpg",
+      "images": [
+        "/products/safety-razor-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "cufflink-pair",
+      "name": "Brushed Steel Cufflinks",
+      "category": "Personal",
+      "assetId": "asset_003",
+      "assetName": "Cufflinks",
+      "assetType": "Cufflinks",
+      "assetPath": "images/accessories/cufflinks-001.jpg",
+      "images": [
+        "/products/cufflink-pair-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "studio-yoga-mat",
+      "name": "Studio Natural Yoga Mat",
+      "category": "Wellness",
+      "assetId": "asset_076",
+      "assetName": "Yoga Mat",
+      "assetType": "Yoga Mat",
+      "assetPath": "images/fitness-wellness/yoga-mat-001.jpg",
+      "images": [
+        "/products/studio-yoga-mat-1.jpg",
+        "/products/studio-yoga-mat-2.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "studio-yoga-block",
+      "name": "Studio Cork Yoga Block",
+      "category": "Wellness",
+      "assetId": "asset_075",
+      "assetName": "Yoga Block",
+      "assetType": "Yoga Block",
+      "assetPath": "images/fitness-wellness/yoga-block-001.jpg",
+      "images": [
+        "/products/studio-yoga-block-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "recovery-foam-roller",
+      "name": "Recovery Foam Roller",
+      "category": "Wellness",
+      "assetId": "asset_068",
+      "assetName": "Foam Roller",
+      "assetType": "Foam Roller",
+      "assetPath": "images/fitness-wellness/foam-roller-001.jpg",
+      "images": [
+        "/products/recovery-foam-roller-1.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "day-insulated-bottle",
+      "name": "Day Insulated Bottle",
+      "category": "Wellness",
+      "assetId": "asset_173",
+      "assetName": "Insulated Outdoor Bottle",
+      "assetType": "Insulated Bottle",
+      "assetPath": "images/outdoor/insulated-outdoor-bottle-001.jpg",
+      "images": [
+        "/products/day-insulated-bottle-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "bar-soap-trio",
+      "name": "Cedar & Clay Soap Trio",
+      "category": "Wellness",
+      "assetId": "asset_090",
+      "assetName": "Soap Bar Set",
+      "assetType": "Soap Bar",
+      "assetPath": "images/gifts-lifestyle/soap-bar-set-001.jpg",
+      "images": [
+        "/products/bar-soap-trio-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "hearth-reed-diffuser",
+      "name": "Hearth Reed Diffuser",
+      "category": "Wellness",
+      "assetId": "asset_115",
+      "assetName": "Reed Diffuser",
+      "assetType": "Home Fragrance Diffuser",
+      "assetPath": "images/home-living/reed-diffuser-001.jpg",
+      "images": [
+        "/products/hearth-reed-diffuser-1.jpg"
+      ],
+      "reused": true
+    },
+    {
+      "slug": "meadow-picnic-blanket",
+      "name": "Meadow Picnic Blanket",
+      "category": "Outdoor Living",
+      "assetId": "asset_175",
+      "assetName": "Outdoor Picnic Blanket",
+      "assetType": "Picnic Blanket",
+      "assetPath": "images/outdoor/picnic-blanket-001.jpg",
+      "images": [
+        "/products/meadow-picnic-blanket-1.jpg",
+        "/products/meadow-picnic-blanket-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "garden-tool-set",
+      "name": "Garden Hand Tool Set",
+      "category": "Outdoor Living",
+      "assetId": "asset_169",
+      "assetName": "Garden Tools",
+      "assetType": "Garden Tool Set",
+      "assetPath": "images/outdoor/garden-tools-001.jpg",
+      "images": [
+        "/products/garden-tool-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "can-watering-can",
+      "name": "Galvanized Watering Can",
+      "category": "Outdoor Living",
+      "assetId": "asset_179",
+      "assetName": "Garden Watering Can",
+      "assetType": "Watering Can",
+      "assetPath": "images/outdoor/watering-can-001.jpg",
+      "images": [
+        "/products/can-watering-can-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "cedar-bird-feeder",
+      "name": "Cedar Bird Feeder",
+      "category": "Outdoor Living",
+      "assetId": "asset_156",
+      "assetName": "Bird Feeder",
+      "assetType": "Bird Feeder",
+      "assetPath": "images/outdoor/bird-feeder-001.jpg",
+      "images": [
+        "/products/cedar-bird-feeder-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "entry-key-tray",
+      "name": "Entry Key Tray",
+      "category": "Everyday",
+      "assetId": "asset_008",
+      "assetName": "Key Organizer",
+      "assetType": "Key Holder",
+      "assetPath": "images/accessories/key-organizer-001.jpg",
+      "images": [
+        "/products/entry-key-tray-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "ring-jewelry-dish",
+      "name": "Ceramic Jewelry Dish",
+      "category": "Everyday",
+      "assetId": "asset_007",
+      "assetName": "Jewelry Dish",
+      "assetType": "Jewelry Dish",
+      "assetPath": "images/accessories/jewelry-dish-001.jpg",
+      "images": [
+        "/products/ring-jewelry-dish-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "cedar-gift-box",
+      "name": "Cedar Gift Box",
+      "category": "Gifts",
+      "assetId": "asset_080",
+      "assetName": "Gift Box",
+      "assetType": "Gift Box",
+      "assetPath": "images/gifts-lifestyle/gift-box-001.jpg",
+      "images": [
+        "/products/cedar-gift-box-1.jpg",
+        "/products/cedar-gift-box-2.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "travel-chess-set",
+      "name": "Travel Chess Set",
+      "category": "Gifts",
+      "assetId": "asset_092",
+      "assetName": "Chess Set",
+      "assetType": "Chess Set",
+      "assetPath": "images/gifts-lifestyle/chess-set-001.jpg",
+      "images": [
+        "/products/travel-chess-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "linen-playing-cards",
+      "name": "Linen Playing Cards",
+      "category": "Gifts",
+      "assetId": "asset_085",
+      "assetName": "Playing Cards",
+      "assetType": "Playing Cards",
+      "assetPath": "images/gifts-lifestyle/playing-cards-001.jpg",
+      "images": [
+        "/products/linen-playing-cards-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "incense-cedar-set",
+      "name": "Cedar Incense",
+      "category": "Gifts",
+      "assetId": "asset_083",
+      "assetName": "Incense Holder",
+      "assetType": "Incense Set",
+      "assetPath": "images/gifts-lifestyle/incense-holder-001.jpg",
+      "images": [
+        "/products/incense-cedar-set-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "haven-linen-bedding",
+      "name": "Haven White Bedding Set",
+      "category": "Home",
+      "assetId": "asset_111",
+      "assetName": "Linen Bedding Set",
+      "assetType": "Bedding Set",
+      "assetPath": "images/home-living/linen-bedding-set-001.jpg",
+      "images": [
+        "/products/haven-linen-bedding-1.jpg"
+      ],
+      "reused": false
+    },
+    {
+      "slug": "elm-console-table",
+      "name": "Elm Console Table",
+      "category": "Home",
+      "assetId": "asset_120",
+      "assetName": "Wooden Side Table",
+      "assetType": "Side Table",
+      "assetPath": "images/home-living/wooden-side-table-001.jpg",
+      "images": [
+        "/products/elm-console-table-1.jpg"
+      ],
+      "reused": false
+    }
+  ],
+  "report": [
+    {
+      "slug": "arden-copper-kettle",
+      "name": "Arden Copper Kettle",
+      "query": "kettle",
+      "asset": "asset_139 Tea Kettle (Kettle)",
+      "path": "images/kitchen-dining/tea-kettle-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "millhouse-hand-mill",
+      "name": "Millhouse Hand Coffee Mill",
+      "query": "coffee grinder",
+      "asset": "asset_127 Coffee Grinder (Coffee Grinder)",
+      "path": "images/kitchen-dining/coffee-grinder-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "linden-pour-over-set",
+      "name": "Linden Pour-Over Set",
+      "query": "coffee dripper",
+      "asset": "asset_086 Pour Over Coffee Set (Coffee Dripper)",
+      "path": "images/gifts-lifestyle/pour-over-coffee-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "hearth-cast-iron-skillet",
+      "name": "Hearth Cast Iron Skillet",
+      "query": "skillet",
+      "asset": "asset_124 Cast Iron Skillet (Skillet)",
+      "path": "images/kitchen-dining/cast-iron-skillet-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "walnut-serving-board",
+      "name": "Walnut Serving Board",
+      "query": "cutting board",
+      "asset": "asset_143 Wooden Serving Board (Cutting Board)",
+      "path": "images/kitchen-dining/wooden-cutting-board-002.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "sutton-celadon-plates",
+      "name": "Sutton Celadon Plates, Set of 4",
+      "query": "dinner plate",
+      "asset": "asset_137 Stoneware Dinner Plate (Dinner Plate)",
+      "path": "images/kitchen-dining/stoneware-dinner-plate-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "elm-white-mugs",
+      "name": "Elm White Mugs, Set of 2",
+      "query": "mug",
+      "asset": "asset_125 Ceramic Mug (Mug)",
+      "path": "images/kitchen-dining/ceramic-mug-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "claremont-wine-glasses",
+      "name": "Claremont Wine Glasses, Set of 4",
+      "query": "wine glass",
+      "asset": "asset_141 Wine Glass (Wine Glass)",
+      "path": "images/kitchen-dining/wine-glass-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "grove-serving-bowl",
+      "name": "Grove Serving Bowl",
+      "query": "serving bowl",
+      "asset": "asset_135 Serving Bowl (Serving Bowl)",
+      "path": "images/kitchen-dining/serving-bowl-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "ashford-serving-tray",
+      "name": "Ashford Serving Tray",
+      "query": "serving tray",
+      "asset": "asset_104 Decorative Tray (Serving Tray)",
+      "path": "images/home-living/decorative-serving-tray-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "meridian-flatware-set",
+      "name": "Meridian Flatware Set",
+      "query": "flatware",
+      "asset": "asset_128 Cutlery Set (Flatware)",
+      "path": "images/kitchen-dining/cutlery-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "brookline-teapot",
+      "name": "Brookline Teapot",
+      "query": "teapot",
+      "asset": "asset_140 Teapot (Teapot)",
+      "path": "images/kitchen-dining/teapot-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "essex-espresso-cups",
+      "name": "Essex Espresso Cups, Set of 2",
+      "query": "espresso cup",
+      "asset": "asset_129 Espresso Cup (Espresso Cup)",
+      "path": "images/kitchen-dining/espresso-cup-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "field-kitchen-scale",
+      "name": "Field Kitchen Scale",
+      "query": "kitchen scale",
+      "asset": "asset_133 Kitchen Scale (Kitchen Scale)",
+      "path": "images/kitchen-dining/kitchen-scale-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "pane-spice-vials",
+      "name": "Pane Spice Vials, Set of 4",
+      "query": "spice jar",
+      "asset": "asset_136 Spice Jar Set (Spice Storage)",
+      "path": "images/kitchen-dining/spice-jar-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "hearthside-shaker-set",
+      "name": "Hearthside Salt & Pepper Set",
+      "query": "shaker set",
+      "asset": "asset_134 Salt & Pepper Shakers (Shaker Set)",
+      "path": "images/kitchen-dining/salt-pepper-shakers-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "rowen-knit-throw",
+      "name": "Rowen Knit Throw",
+      "query": "throw blanket",
+      "asset": "asset_109 Knit Throw Blanket (Throw Blanket)",
+      "path": "images/home-living/knit-throw-blanket-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "ellis-cotton-cushion",
+      "name": "Ellis Cotton Cushion",
+      "query": "cushion",
+      "asset": "asset_112 Linen Cushion Cover (Cushion)",
+      "path": "images/home-living/linen-cushion-cover-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "sable-ceramic-vase",
+      "name": "Sable Celadon Vase",
+      "query": "ceramic vase",
+      "asset": "asset_100 Ceramic Vase (Vase)",
+      "path": "images/home-living/ceramic-vase-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "pippin-bud-vases",
+      "name": "Pippin Glass Bud Vases, Set of 4",
+      "query": "bud vase",
+      "asset": "asset_107 Glass Bud Vase (Bud Vase)",
+      "path": "images/home-living/glass-bud-vase-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "halden-floor-lamp",
+      "name": "Halden Tripod Floor Lamp",
+      "query": "floor lamp",
+      "asset": "asset_094 Standing Floor Lamp (Floor Lamp)",
+      "path": "images/home-living/arc-floor-lamp-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "glen-wall-mirror",
+      "name": "Glen Wall Mirror",
+      "query": "wall mirror",
+      "asset": "asset_116 Round Wall Mirror (Wall Mirror)",
+      "path": "images/home-living/round-wall-mirror-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "weston-wall-clock",
+      "name": "Weston Wall Clock",
+      "query": "wall clock",
+      "asset": "asset_114 Minimal Wall Clock (Wall Clock)",
+      "path": "images/home-living/minimal-wall-clock-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "atelier-study-print",
+      "name": "Atelier Study Print",
+      "query": "art print",
+      "asset": "asset_118 Art Print (Art Print)",
+      "path": "images/home-living/art-print-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "terra-plant-pot",
+      "name": "Terra Stoneware Planter",
+      "query": "plant pot",
+      "asset": "asset_096 Ceramic Plant Pot (Plant Pot)",
+      "path": "images/home-living/ceramic-plant-pot-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "wicker-storage-basket",
+      "name": "Seagrass Floor Basket",
+      "query": "laundry basket",
+      "asset": "asset_110 Laundry Hamper (Laundry Basket)",
+      "path": "images/home-living/laundry-hamper-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "archive-storage-box",
+      "name": "Archive Lidded Storage Box",
+      "query": "storage box",
+      "asset": "asset_117 Storage Box (Storage Box)",
+      "path": "images/home-living/storage-box-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "linley-wall-shelf",
+      "name": "Linley Wall Shelf",
+      "query": "wall shelf",
+      "asset": "asset_106 Floating Wall Shelf (Wall Shelf)",
+      "path": "images/home-living/floating-wall-shelf-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "cinder-decorative-bowl",
+      "name": "Cinder Decorative Bowl",
+      "query": "decorative bowl",
+      "asset": "asset_103 Decorative Bowl (Decorative Bowl)",
+      "path": "images/home-living/decorative-bowl-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "haven-bath-towels",
+      "name": "Haven Hotel Towel Set",
+      "query": "bath towel",
+      "asset": "asset_078 Bath Towel Set (Bath Towel)",
+      "path": "images/gifts-lifestyle/bath-towel-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "entry-doormat",
+      "name": "Entry Coir Doormat",
+      "query": "doormat",
+      "asset": "asset_105 Doormat (Doormat)",
+      "path": "images/home-living/doormat-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "oak-wall-hooks",
+      "name": "Oak Wall Hooks, Set of 3",
+      "query": "wall hooks",
+      "asset": "asset_102 Coat Hooks (Wall Hooks)",
+      "path": "images/home-living/coat-hooks-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "ledger-linen-notebook",
+      "name": "Ledger Linen Notebook",
+      "query": "notebook",
+      "asset": "asset_146 Hardcover Notebook (Notebook)",
+      "path": "images/office-desk/hardcover-notebook-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "yearling-desk-planner",
+      "name": "Yearling Desk Planner",
+      "query": "planner",
+      "asset": "asset_154 Weekly Planner (Planner)",
+      "path": "images/office-desk/weekly-planner-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "nile-fountain-pen",
+      "name": "Nile Fountain Pen",
+      "query": "pen",
+      "asset": "asset_145 Fountain Pen (Pen)",
+      "path": "images/office-desk/fountain-pen-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "rise-laptop-stand",
+      "name": "Rise Aluminum Laptop Stand",
+      "query": "laptop stand",
+      "asset": "asset_148 Laptop Stand (Laptop Stand)",
+      "path": "images/office-desk/laptop-stand-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "field-desk-lamp",
+      "name": "Field Gooseneck Desk Lamp",
+      "query": "desk light",
+      "asset": "asset_045 LED Desk Light (Desk Light)",
+      "path": "images/electronics/clip-desk-light-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "harbor-alarm-clock",
+      "name": "Harbor Analog Alarm Clock",
+      "query": "alarm clock",
+      "asset": "asset_048 Bedside Alarm Clock (Alarm Clock)",
+      "path": "images/electronics/bedside-alarm-clock-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "weekender-canvas-bag",
+      "name": "Weekender Canvas Holdall",
+      "query": "weekender bag",
+      "asset": "asset_183 Weekender Duffel Bag (Weekender Bag)",
+      "path": "images/travel-bags/weekender-duffel-bag-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "dayline-backpack",
+      "name": "Field Canvas Daypack",
+      "query": "daypack",
+      "asset": "asset_189 Canvas Daypack (Daypack)",
+      "path": "images/travel-bags/canvas-daypack-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "cross-town-bag",
+      "name": "Cross-Town Crossbody",
+      "query": "crossbody bag",
+      "asset": "asset_186 Crossbody Bag (Crossbody Bag)",
+      "path": "images/travel-bags/crossbody-bag-002.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "courier-messenger",
+      "name": "Courier Messenger Bag",
+      "query": "messenger bag",
+      "asset": "asset_192 Messenger Bag (Messenger Bag)",
+      "path": "images/travel-bags/messenger-bag-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "voyage-luggage-tag",
+      "name": "Voyage Leather Luggage Tag",
+      "query": "luggage tag",
+      "asset": "asset_191 Luggage Tag (Luggage Tag)",
+      "path": "images/travel-bags/luggage-tag-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "commute-travel-tumbler",
+      "name": "Commute Travel Tumbler",
+      "query": "travel tumbler",
+      "asset": "asset_132 Insulated Travel Tumbler (Travel Tumbler)",
+      "path": "images/kitchen-dining/insulated-travel-tumbler-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "canopy-umbrella",
+      "name": "Canopy Compact Umbrella",
+      "query": "umbrella",
+      "asset": "asset_018 Umbrella (Umbrella)",
+      "path": "images/accessories/umbrella-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "merino-crew-sweater",
+      "name": "Heather Knit Crew",
+      "query": "sweater",
+      "asset": "asset_036 Knit Sweater (Sweater)",
+      "path": "images/apparel/knit-sweater-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "overland-overshirt",
+      "name": "Overland Cotton Overshirt",
+      "query": "overshirt",
+      "asset": "asset_024 Casual Overshirt (Overshirt)",
+      "path": "images/apparel/casual-overshirt-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "poplin-dress-shirt",
+      "name": "Poplin Dress Shirt",
+      "query": "dress shirt",
+      "asset": "asset_031 Dress Shirt (Dress Shirt)",
+      "path": "images/apparel/dress-shirt-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "twill-everyday-trousers",
+      "name": "Twill Everyday Trousers",
+      "query": "trousers",
+      "asset": "asset_026 Cotton Trousers (Trousers)",
+      "path": "images/apparel/cotton-trousers-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "field-wool-scarf",
+      "name": "Field Wool Scarf",
+      "query": "scarf",
+      "asset": "asset_019 Wool Scarf (Scarf)",
+      "path": "images/accessories/wool-scarf-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "bridle-leather-belt",
+      "name": "Bridle Leather Belt",
+      "query": "belt",
+      "asset": "asset_009 Leather Belt (Belt)",
+      "path": "images/accessories/leather-belt-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "cashmere-lined-gloves",
+      "name": "Cashmere-Lined Leather Gloves",
+      "query": "leather gloves",
+      "asset": "asset_006 Leather Gloves (Gloves)",
+      "path": "images/accessories/gloves-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "folio-leather-wallet",
+      "name": "Folio Slim Leather Wallet",
+      "query": "wallet",
+      "asset": "asset_010 Leather Wallet (Wallet)",
+      "path": "images/accessories/leather-wallet-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "horizon-sunglasses",
+      "name": "Horizon Polarized Sunglasses",
+      "query": "sunglasses",
+      "asset": "asset_017 Sunglasses (Sunglasses)",
+      "path": "images/accessories/sunglasses-002.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "meridian-field-watch",
+      "name": "Meridian Canvas Watch",
+      "query": "watch",
+      "asset": "asset_020 Wristwatch (Watch)",
+      "path": "images/accessories/wristwatch-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "link-bracelet",
+      "name": "Link Cuff Bracelet",
+      "query": "bracelet",
+      "asset": "asset_001 Bracelet (Bracelet)",
+      "path": "images/accessories/bracelet-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "grooming-travel-set",
+      "name": "Grooming Travel Set",
+      "query": "grooming set",
+      "asset": "asset_082 Grooming Kit (Grooming Set)",
+      "path": "images/gifts-lifestyle/grooming-kit-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "safety-razor",
+      "name": "Safety Razor",
+      "query": "razor",
+      "asset": "asset_087 Razor & Blade Set (Razor)",
+      "path": "images/gifts-lifestyle/razor-blade-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "cufflink-pair",
+      "name": "Brushed Steel Cufflinks",
+      "query": "cufflinks",
+      "asset": "asset_003 Cufflinks (Cufflinks)",
+      "path": "images/accessories/cufflinks-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "studio-yoga-mat",
+      "name": "Studio Natural Yoga Mat",
+      "query": "yoga mat",
+      "asset": "asset_076 Yoga Mat (Yoga Mat)",
+      "path": "images/fitness-wellness/yoga-mat-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "studio-yoga-block",
+      "name": "Studio Cork Yoga Block",
+      "query": "yoga block",
+      "asset": "asset_075 Yoga Block (Yoga Block)",
+      "path": "images/fitness-wellness/yoga-block-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "recovery-foam-roller",
+      "name": "Recovery Foam Roller",
+      "query": "foam roller",
+      "asset": "asset_068 Foam Roller (Foam Roller)",
+      "path": "images/fitness-wellness/foam-roller-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "day-insulated-bottle",
+      "name": "Day Insulated Bottle",
+      "query": "insulated bottle",
+      "asset": "asset_173 Insulated Outdoor Bottle (Insulated Bottle)",
+      "path": "images/outdoor/insulated-outdoor-bottle-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "bar-soap-trio",
+      "name": "Cedar & Clay Soap Trio",
+      "query": "soap bar",
+      "asset": "asset_090 Soap Bar Set (Soap Bar)",
+      "path": "images/gifts-lifestyle/soap-bar-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "hearth-reed-diffuser",
+      "name": "Hearth Reed Diffuser",
+      "query": "reed diffuser",
+      "asset": "asset_115 Reed Diffuser (Home Fragrance Diffuser)",
+      "path": "images/home-living/reed-diffuser-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "meadow-picnic-blanket",
+      "name": "Meadow Picnic Blanket",
+      "query": "picnic blanket",
+      "asset": "asset_175 Outdoor Picnic Blanket (Picnic Blanket)",
+      "path": "images/outdoor/picnic-blanket-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "garden-tool-set",
+      "name": "Garden Hand Tool Set",
+      "query": "garden tool set",
+      "asset": "asset_169 Garden Tools (Garden Tool Set)",
+      "path": "images/outdoor/garden-tools-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "can-watering-can",
+      "name": "Galvanized Watering Can",
+      "query": "watering can",
+      "asset": "asset_179 Garden Watering Can (Watering Can)",
+      "path": "images/outdoor/watering-can-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "cedar-bird-feeder",
+      "name": "Cedar Bird Feeder",
+      "query": "bird feeder",
+      "asset": "asset_156 Bird Feeder (Bird Feeder)",
+      "path": "images/outdoor/bird-feeder-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "entry-key-tray",
+      "name": "Entry Key Tray",
+      "query": "key holder",
+      "asset": "asset_008 Key Organizer (Key Holder)",
+      "path": "images/accessories/key-organizer-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "ring-jewelry-dish",
+      "name": "Ceramic Jewelry Dish",
+      "query": "jewelry dish",
+      "asset": "asset_007 Jewelry Dish (Jewelry Dish)",
+      "path": "images/accessories/jewelry-dish-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "cedar-gift-box",
+      "name": "Cedar Gift Box",
+      "query": "gift box",
+      "asset": "asset_080 Gift Box (Gift Box)",
+      "path": "images/gifts-lifestyle/gift-box-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "travel-chess-set",
+      "name": "Travel Chess Set",
+      "query": "chess set",
+      "asset": "asset_092 Chess Set (Chess Set)",
+      "path": "images/gifts-lifestyle/chess-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "linen-playing-cards",
+      "name": "Linen Playing Cards",
+      "query": "playing cards",
+      "asset": "asset_085 Playing Cards (Playing Cards)",
+      "path": "images/gifts-lifestyle/playing-cards-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "incense-cedar-set",
+      "name": "Cedar Incense",
+      "query": "incense set",
+      "asset": "asset_083 Incense Holder (Incense Set)",
+      "path": "images/gifts-lifestyle/incense-holder-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "haven-linen-bedding",
+      "name": "Haven White Bedding Set",
+      "query": "bedding set",
+      "asset": "asset_111 Linen Bedding Set (Bedding Set)",
+      "path": "images/home-living/linen-bedding-set-001.jpg",
+      "status": "OK"
+    },
+    {
+      "slug": "elm-console-table",
+      "name": "Elm Console Table",
+      "query": "side table",
+      "asset": "asset_120 Wooden Side Table (Side Table)",
+      "path": "images/home-living/wooden-side-table-001.jpg",
+      "status": "OK"
+    }
+  ]
+}

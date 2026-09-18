@@ -101,7 +101,7 @@ async function searchPhotos(accessKey, query, perPage = 2) {
 
 async function downloadImage(url) {
   const res = await fetch(url, {
-    headers: { "User-Agent": "AAMPartnersLLC/1.0 (product-images)" },
+    headers: { "User-Agent": "VVCapitalLLC/1.0 (product-images)" },
     redirect: "follow",
   });
   if (!res.ok) throw new Error(`Download HTTP ${res.status}`);

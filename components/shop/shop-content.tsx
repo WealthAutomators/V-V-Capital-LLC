@@ -41,7 +41,7 @@ export function ShopContent() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>(
     initialCategory ? [initialCategory] : []
   );
-  const [priceRange, setPriceRange] = useState<[number, number]>([0, 150]);
+  const [priceRange, setPriceRange] = useState<[number, number]>([0, 500]);
   const [inStockOnly, setInStockOnly] = useState(false);
   const [saleOnly, setSaleOnly] = useState(initialSale);
   const [sort, setSort] = useState("featured");
@@ -110,8 +110,8 @@ export function ShopContent() {
   return (
     <Container className="py-8 md:py-12">
       <div className="mb-8">
-        <h1 className="text-3xl font-semibold tracking-tight">Shop</h1>
-        <p className="mt-2 text-muted-foreground">{filteredProducts.length} products</p>
+        <h1 className="font-serif text-4xl font-medium tracking-tight md:text-5xl">Shop</h1>
+        <p className="mt-2 text-muted-foreground">{filteredProducts.length} pieces</p>
       </div>
 
       <div className="flex gap-8">

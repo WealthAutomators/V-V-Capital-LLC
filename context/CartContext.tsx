@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useCallback, useContext, useMemo, ReactNode } from "react";
+import { createContext, useCallback, useContext, useMemo, useState, ReactNode } from "react";
 import { CartItem, Product } from "@/types";
 import { getProductById, getEffectivePrice } from "@/data/products";
 import { useLocalStorage } from "@/hooks/useLocalStorage";
@@ -23,12 +23,16 @@ interface CartContextType {
   tax: number;
   total: number;
   isHydrated: boolean;
+  isCartOpen: boolean;
+  openCart: () => void;
+  closeCart: () => void;
 }
 
 const CartContext = createContext<CartContextType | undefined>(undefined);
 
 export function CartProvider({ children }: { children: ReactNode }) {
-  const [storedItems, setStoredItems, isHydrated] = useLocalStorage<StoredCartItem[]>("aam-partners-cart", []);
+  const [storedItems, setStoredItems, isHydrated] = useLocalStorage<StoredCartItem[]>("vv-capital-cart", []);
+  const [isCartOpen, setIsCartOpen] = useState(false);
 
   const items: CartItem[] = useMemo(() => {
     return storedItems
@@ -39,6 +43,9 @@ export function CartProvider({ children }: { children: ReactNode }) {
       })
       .filter((item): item is CartItem => item !== null);
   }, [storedItems]);
+
+  const openCart = useCallback(() => setIsCartOpen(true), []);
+  const closeCart = useCallback(() => setIsCartOpen(false), []);
 
   const addToCart = useCallback(
     (product: Product, quantity = 1) => {
@@ -51,6 +58,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
         }
         return [...prev, { productId: product.id, quantity }];
       });
+      setIsCartOpen(true);
     },
     [setStoredItems]
   );
@@ -104,8 +112,11 @@ export function CartProvider({ children }: { children: ReactNode }) {
       tax,
       total,
       isHydrated,
+      isCartOpen,
+      openCart,
+      closeCart,
     }),
-    [items, addToCart, removeFromCart, updateQuantity, clearCart, itemCount, subtotal, shipping, tax, total, isHydrated]
+    [items, addToCart, removeFromCart, updateQuantity, clearCart, itemCount, subtotal, shipping, tax, total, isHydrated, isCartOpen, openCart, closeCart]
   );
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;

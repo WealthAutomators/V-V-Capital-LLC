@@ -1,19 +1,27 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fafafa;
-  --foreground: #1f2937;
-  --primary: #7c3aed;
-  --primary-foreground: #ffffff;
-  --accent: #f59e0b;
-  --accent-foreground: #ffffff;
-  --pink: #ec4899;
-  --muted: #f3f4f6;
-  --muted-foreground: #6b7280;
-  --border: #e5e7eb;
-  --ring: #7c3aed;
-  --card: #ffffff;
-  --radius: 12px;
+  --background: #f6f3ed;
+  --foreground: #1c1b19;
+  --primary: #2f332c;
+  --primary-foreground: #f6f3ed;
+  --accent: #3f4f46;
+  --accent-foreground: #f6f3ed;
+  --olive: #5c6554;
+  --slate: #5b6a75;
+  --navy: #2e3a4a;
+  --clay: #a56b52;
+  --burgundy: #7a3e48;
+  --taupe: #9c8d7e;
+  --ivory: #f6f3ed;
+  --cream: #efe8dc;
+  --stone: #e4ddd3;
+  --muted: #efeae2;
+  --muted-foreground: #6b655c;
+  --border: #ddd6cb;
+  --ring: #3f4f46;
+  --card: #fffcf7;
+  --radius: 2px;
 }
 
 @theme inline {
@@ -23,21 +31,51 @@
   --color-primary-foreground: var(--primary-foreground);
   --color-accent: var(--accent);
   --color-accent-foreground: var(--accent-foreground);
-  --color-pink: var(--pink);
+  --color-olive: var(--olive);
+  --color-slate: var(--slate);
+  --color-navy: var(--navy);
+  --color-clay: var(--clay);
+  --color-burgundy: var(--burgundy);
+  --color-taupe: var(--taupe);
+  --color-ivory: var(--ivory);
+  --color-cream: var(--cream);
+  --color-stone: var(--stone);
   --color-muted: var(--muted);
   --color-muted-foreground: var(--muted-foreground);
   --color-border: var(--border);
   --color-ring: var(--ring);
   --color-card: var(--card);
-  --font-sans: var(--font-inter);
-  --radius-lg: 12px;
-  --radius-xl: 12px;
+  --font-sans: var(--font-outfit);
+  --font-serif: var(--font-cormorant);
+  --radius-lg: 2px;
+  --radius-xl: 4px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+  font-family: var(--font-outfit), system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-cormorant), "Times New Roman", serif;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+::selection {
+  background: #dfe6df;
+  color: #1c1b19;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 @keyframes accordion-down {
@@ -60,12 +98,4 @@ body {
 
 .prose-store p + p {
   margin-top: 1rem;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  overflow-x: hidden;
 }

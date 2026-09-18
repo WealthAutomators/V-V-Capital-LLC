@@ -18,6 +18,11 @@ export async function generateMetadata({ params }: ProductPageProps) {
   return {
     title: product.name,
     description: product.description,
+    openGraph: {
+      title: `${product.name} | V&V Capital LLC`,
+      description: product.description,
+      images: product.images.map((url) => ({ url, alt: product.name })),
+    },
   };
 }
 

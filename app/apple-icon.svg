@@ -1,21 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" fill="none">
-  <defs>
-    <linearGradient id="aam-bg-lg" x1="20" y1="16" x2="160" y2="164" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="1" stop-color="#6D28D9"/>
-    </linearGradient>
-  </defs>
-  <rect width="180" height="180" rx="40" fill="url(#aam-bg-lg)"/>
-  <rect x="34" y="118" width="112" height="14" rx="7" fill="#F59E0B"/>
+  <rect width="180" height="180" fill="#2F332C"/>
   <text
     x="90"
-    y="88"
+    y="108"
     text-anchor="middle"
-    dominant-baseline="middle"
-    fill="#FFFFFF"
-    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-    font-size="64"
-    font-weight="800"
-    letter-spacing="-3"
-  >AAM</text>
+    fill="#F6F3ED"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="56"
+    font-weight="500"
+    letter-spacing="-1.5"
+  >V&amp;V</text>
 </svg>

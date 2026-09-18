@@ -40,7 +40,7 @@ export function PageHero({ title, description, breadcrumbs }: PageHeroProps) {
             ))}
           </ol>
         </nav>
-        {title && <h1 className="text-3xl font-semibold tracking-tight md:text-4xl">{title}</h1>}
+        {title && <h1 className="font-serif text-3xl font-medium tracking-tight md:text-5xl">{title}</h1>}
         {description && (
           <p className="mt-3 max-w-2xl text-muted-foreground leading-relaxed">{description}</p>
         )}

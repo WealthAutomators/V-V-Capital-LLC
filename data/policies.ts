@@ -2,14 +2,14 @@ import { company } from "./company";
 
 export const faqItems = [
   {
-    question: "What types of products does AAM Partners LLC sell?",
+    question: "What does V&V Capital LLC sell?",
     answer:
-      "We offer a wide range of products across 12+ categories including electronics, home & kitchen, bathroom essentials, beauty & personal care, toys & games, pet supplies, sports & outdoors, office supplies, health & wellness, baby products, and fashion accessories.",
+      "We are a contemporary lifestyle retailer. Our assortment covers home, kitchen and dining, workspace, travel, apparel, personal goods, wellness, outdoor living, everyday organization, and gifts — chosen for design, utility, quality, and everyday relevance.",
   },
   {
     question: "Do you offer free shipping?",
     answer:
-      "Yes. We offer free standard shipping on all orders over $75 within the contiguous United States. Orders under $75 have a flat rate of $9.99. Express shipping is available at checkout for $14.99.",
+      "Yes. We offer complimentary standard shipping on all orders over $75 within the contiguous United States. Orders under $75 have a flat rate of $9.99. Express shipping is available at checkout for $14.99.",
   },
   {
     question: "How long does shipping take?",
@@ -32,9 +32,9 @@ export const faqItems = [
       "Currently, we ship within the United States only, including Alaska and Hawaii. International shipping is planned for a future expansion. Sign up for our newsletter to be notified when it becomes available.",
   },
   {
-    question: "Are your products quality-checked?",
+    question: "How do you choose products?",
     answer:
-      "Absolutely. We partner with trusted suppliers and carefully curate every product in our marketplace. Each item is selected for quality, value, and reliability before being listed on our site.",
+      "Every piece in the store is selected for how it looks, how it works, and whether it belongs in ordinary daily life. We would rather carry fewer things well than stock a wider, noisier assortment.",
   },
   {
     question: "How do I use a coupon code?",
@@ -55,7 +55,7 @@ export const faqItems = [
 
 export const shippingPolicy = {
   title: "Shipping Policy",
-  description: "Everything you need to know about how we deliver your AAM Partners LLC orders.",
+  description: "Everything you need to know about how we deliver your V&V Capital LLC orders.",
   sections: [
     {
       title: "Processing Time",
@@ -66,7 +66,7 @@ export const shippingPolicy = {
       title: "Shipping Methods & Rates",
       content: "",
       list: [
-        "Standard Shipping (3–5 business days): $9.99 — FREE on orders over $75",
+        "Standard Shipping (3–5 business days): $9.99 — complimentary on orders over $75",
         "Express Shipping (1–2 business days): $14.99",
         "Alaska & Hawaii: Standard shipping rates apply; delivery may take 5–7 business days",
       ],
@@ -90,7 +90,7 @@ export const shippingPolicy = {
 
 export const returnPolicy = {
   title: "Return Policy",
-  description: "We want you to love every AAM Partners LLC purchase. If you're not satisfied, we're here to help.",
+  description: "We want you to live with every V&V Capital LLC purchase. If you're not satisfied, we're here to help.",
   sections: [
     {
       title: "30-Day Return Window",
@@ -128,7 +128,7 @@ export const returnPolicy = {
 
 export const refundPolicy = {
   title: "Refund Policy",
-  description: "Our commitment to fair and transparent refunds for every AAM Partners LLC order.",
+  description: "Our commitment to fair and transparent refunds for every V&V Capital LLC order.",
   sections: [
     {
       title: "Refund Eligibility",
@@ -163,7 +163,7 @@ export const refundPolicy = {
 
 export const privacyPolicy = {
   title: "Privacy Policy",
-  description: "Last updated: January 1, 2026. How AAM Partners LLC collects, uses, and protects your information.",
+  description: "Last updated: January 1, 2026. How V&V Capital LLC collects, uses, and protects your information.",
   sections: [
     {
       title: "Information We Collect",
@@ -195,7 +195,9 @@ export const privacyPolicy = {
     {
       title: "Your Rights",
       content:
-        "You may request access to, correction of, or deletion of your personal data at any time by contacting us at " + company.email + ". Virginia residents have additional rights under applicable state privacy laws.",
+        "You may request access to, correction of, or deletion of your personal data at any time by contacting us at " +
+        company.email +
+        ". Pennsylvania residents have additional rights under applicable state privacy laws.",
     },
     {
       title: "Contact",
@@ -206,12 +208,12 @@ export const privacyPolicy = {
 
 export const termsPolicy = {
   title: "Terms & Conditions",
-  description: "Please read these terms carefully before using the AAM Partners LLC website.",
+  description: "Please read these terms carefully before using the V&V Capital LLC website.",
   sections: [
     {
       title: "Acceptance of Terms",
       content:
-        "By accessing and using the AAM Partners LLC website, you agree to be bound by these Terms and Conditions. If you do not agree, please do not use our website.",
+        "By accessing and using the V&V Capital LLC website, you agree to be bound by these Terms and Conditions. If you do not agree, please do not use our website.",
     },
     {
       title: "Products & Pricing",
@@ -226,17 +228,17 @@ export const termsPolicy = {
     {
       title: "Intellectual Property",
       content:
-        "All content on this website — including text, images, logos, and design — is the property of AAM Partners LLC and protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.",
+        "All content on this website — including text, images, logos, and design — is the property of V&V Capital LLC and protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.",
     },
     {
       title: "Limitation of Liability",
       content:
-        "AAM Partners LLC shall not be liable for any indirect, incidental, or consequential damages arising from your use of our website or products. Our total liability shall not exceed the amount you paid for the product in question.",
+        "V&V Capital LLC shall not be liable for any indirect, incidental, or consequential damages arising from your use of our website or products. Our total liability shall not exceed the amount you paid for the product in question.",
     },
     {
       title: "Governing Law",
       content:
-        "These terms are governed by the laws of the Commonwealth of Virginia, United States. Any disputes shall be resolved in the courts of Virginia Beach, Virginia.",
+        "These terms are governed by the laws of the Commonwealth of Pennsylvania, United States. Any disputes shall be resolved in the courts of Bucks County, Pennsylvania.",
     },
   ],
 };
