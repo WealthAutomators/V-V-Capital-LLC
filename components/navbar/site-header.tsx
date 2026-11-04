@@ -116,12 +116,12 @@ export function SiteHeader() {
               <Button variant="ghost" size="icon" className="h-10 w-10" onClick={() => setSearchOpen(true)} aria-label="Search">
                 <Search className="h-[18px] w-[18px]" />
               </Button>
-              <Button variant="ghost" size="icon" asChild className="h-10 w-10">
+              <Button variant="ghost" size="icon" asChild className="hidden sm:inline-flex h-10 w-10">
                 <Link href="/profile" aria-label="Account">
                   <User className="h-[18px] w-[18px]" />
                 </Link>
               </Button>
-              <Button variant="ghost" size="icon" asChild className="relative h-10 w-10">
+              <Button variant="ghost" size="icon" asChild className="hidden sm:inline-flex relative h-10 w-10">
                 <Link href="/wishlist" aria-label="Wishlist">
                   <Heart className="h-[18px] w-[18px]" />
                   {wishlist.length > 0 && (
@@ -186,6 +186,10 @@ export function SiteHeader() {
                     )}
                   </li>
                 ))}
+                <li data-mobile-extra className="mt-2 flex gap-2 border-t border-border pt-3 sm:hidden">
+                  <Link href="/wishlist" onClick={() => setMobileOpen(false)} className="flex-1 rounded-md border border-border px-3 py-2 text-center text-sm font-medium hover:bg-muted">Wishlist</Link>
+                  <Link href="/profile" onClick={() => setMobileOpen(false)} className="flex-1 rounded-md border border-border px-3 py-2 text-center text-sm font-medium hover:bg-muted">Account</Link>
+                </li>
               </ul>
               <div className="mt-8 border-t border-border pt-6 text-sm text-muted-foreground">
                 <Link href="/profile" className="block py-2" onClick={() => setMobileOpen(false)}>

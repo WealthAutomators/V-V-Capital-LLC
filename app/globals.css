@@ -99,3 +99,11 @@ h1, h2, h3, .font-serif {
 .prose-store p + p {
   margin-top: 1rem;
 }
+
+/* mobile-overflow-guard */
+@layer base {
+  html,
+  body {
+    overflow-x: clip;
+  }
+}
